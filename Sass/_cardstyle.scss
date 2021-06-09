@@ -1,0 +1,47 @@
+.margin_between{
+    margin: 0 4px !important;
+    margin-bottom: 10px !important;
+}
+.card{
+
+    border-radius: 1rem !important;
+    overflow: hidden;
+    max-width: 100%;
+    margin-top: 5% !important;
+    margin-bottom: 12px;
+   // width: 80% !important;
+   
+
+}
+.card-body{
+    padding: 0 !important;
+    font-size: 20px;
+}
+.bt{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 25px;
+    color: rgb(206, 153, 75);
+}
+.carousel-item {
+    overflow: hidden !important;
+    margin-left: 10% !important;
+  max-height: 50% !important;
+}
+.allcaro{
+   // width: 300px !important;
+   // height: 300px;
+    width: 100%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  //  margin-left: 250px;
+    overflow: hidden !important;
+
+    img{
+        width: 80% !important;
+        max-height: 700px !important;
+        border-radius: 16px;
+        
+
+    }
+}
